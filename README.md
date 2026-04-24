@@ -21,8 +21,17 @@ Proyek ini merupakan implementasi Object Detection menggunakan arsitektur **Fast
 * **Fitur:** Menentukan zona deteksi menggunakan ROI Polygon secara interaktif dan menghitung jumlah objek yang masuk ke dalam area tersebut.
 
 ## Video Presentasi 
+https://youtu.be/t0uGotryfYo?si=o8GiEjb7cNvDVFa-
+
+---
 
 
+👤 Anggota Kelompok
+
+- Alfadrian Januarsyah (231001067)
+- Tasri Zulfitriyati (231001074)
+
+---
 
 ## ⚙️ Persiapan Environment
 
@@ -50,13 +59,5 @@ pip install supervision ultralytics onnxruntime opencv-python
     Inference: Jalankan 8.2_Inference_ONNX.ipynb untuk melihat hasil deteksi pada gambar tunggal.
 
     Counting: Jalankan 8.3_Object_Counting.ipynb, pilih area ROI dengan mouse (drag), lalu tekan Enter untuk mulai menghitung.
-
-
-👤 Anggota Kelompok
-
-- Alfadrian Januarsyah (231001067)
-- Tasri Zulfitriyati (231001074)
-
----
 
 
